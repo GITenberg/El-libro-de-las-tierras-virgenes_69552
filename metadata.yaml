@@ -1,0 +1,42 @@
+_repo: El-libro-de-las-tierras-virgenes_69552
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Triadó, José
+    gutenberg_agent_id: '55310'
+    url: http://www.gutenberg.org/2009/agents/55310
+  translator:
+    agent_name: Perés, Ramón D.
+    gutenberg_agent_id: '55309'
+    url: http://www.gutenberg.org/2009/agents/55309
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2022-12-15'
+identifiers:
+  gutenberg: '69552'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=pst.000005312849&view=1up&seq=5
+pgterms:marc905: 20200504175243kipling
+pgterms:marc906: '1918'
+pgterms:marc907: ES
+production_note: Carlos Colon, Andrés V. Galia, Penn State University and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This book was produced from
+  images made available by the HathiTrust Digital Library.)
+publication_note: 'Spain: Gustavo Gili, Editor,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: El libro de las tierras vírgenes
+url: http://www.gutenberg.org/ebooks/69552
