@@ -9,6 +9,9 @@ contributor:
     agent_name: Perés, Ramón D.
     gutenberg_agent_id: '55309'
     url: http://www.gutenberg.org/2009/agents/55309
+covers:
+- cover_type: archival
+  image_path: 69552-h/images/cover.jpg
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69552#El-libro-de-las-tierras-virgenes
 gutenberg_issued: '2022-12-15'
 identifiers:
   gutenberg: '69552'
